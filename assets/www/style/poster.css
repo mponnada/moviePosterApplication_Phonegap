@@ -1,0 +1,55 @@
+#movieYour {
+	background-color: #ededed;
+	height: 60%;
+	width: 100%;
+	padding: 5px;
+}
+
+#movie {
+	-webkit-border-radius: 9px;
+	-moz-border-radius: 9px;
+	border-radius: 9px;
+	width: 80%;
+	margin-left: auto;
+	margin-right: auto;
+	color: black;
+	padding: 3px;
+	font-size: 1.2em;
+}
+
+#singleMovie {
+	background-color: white;
+}
+
+#title {
+	background-color: #ededed;
+	font-size: 1.3em;
+	font-family: arial;
+	color: #FA5858;
+}
+
+.movieList {
+	background-color: white;
+	padding: 5px;
+	width: 80%;
+	border-bottom: solid 5px black;
+}
+
+.details {
+	display: none;
+}
+
+.titleclass
+{
+	background-color:#4d90fe;
+	padding:2px;
+	color:white;
+}
+
+.trailerclass
+{
+	background-color:#f9edbe;
+	padding:2px;
+	margin-left:auto;
+	margin-right:auto;
+}
